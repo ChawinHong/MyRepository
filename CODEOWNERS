@@ -1,3 +1,6 @@
-* @ChawinHong
+* @ChawinHong, @Jane
+*.js @Jane
+docs/* @Kevin
+/docs/ @Susan
 
-
+docs/myfile.js >>> 
